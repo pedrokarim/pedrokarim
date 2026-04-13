@@ -1340,7 +1340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>morgannito/zombie-browser-game</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧟 Zombie Multiplayer Survival Game - Production-ready with Clean Architecture, advanced weapon audio system, and real-time multiplayer. Built with Node.js, Socket.IO, SQLite, and Web Audio API.</div>
@@ -1605,7 +1605,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Apr 2026, 20:27:02 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Apr 2026, 21:30:17 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
