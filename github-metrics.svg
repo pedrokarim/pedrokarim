@@ -1391,7 +1391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pedrokarim/NetbeansRPC</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a Netbeans module creation project. The goal is to create a plugins that uses the RPC (Rich Presence) Discord API that allows you to notify the status of an ongoing project on discord as Activity (or Presence).</div>
@@ -1444,7 +1444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pedrokarim/my-power-toys</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Franchement on vera bien</div>
@@ -1609,7 +1609,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Apr 2026, 10:36:27 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Apr 2026, 11:33:49 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
