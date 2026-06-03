@@ -1403,7 +1403,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vitessio/vitess</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vitess is a database clustering system for horizontal scaling of MySQL.</div>
@@ -1626,7 +1626,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jun 2026, 13:38:12 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jun 2026, 15:38:07 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
