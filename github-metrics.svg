@@ -1395,7 +1395,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jj-vcs/jj</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Git-compatible VCS that is both simple and powerful</div>
@@ -1448,7 +1448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>benfavre/shelldeck</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GPU-accelerated native desktop terminal and SSH companion app built with Rust</div>
@@ -1665,7 +1665,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jul 2026, 15:14:30 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jul 2026, 16:52:43 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
