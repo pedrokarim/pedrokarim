@@ -2,7 +2,7 @@
 
 Développeur en France. Du TypeScript quand il faut aller vite sur le web,
 du Rust quand je veux que ça tienne et que ça démarre instantanément. Le reste du temps,
-je fabrique des outils que personne ne m'a demandés.
+je fabrique des outils que personne ne m'a demandés, la plupart sous la bannière [Ascencia](https://ascencia.re/).
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
